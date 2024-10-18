@@ -28,7 +28,7 @@ const Footer = () => {
                     <span>Contact Us</span>
                     <span className={css.pngLine}>
                           <HiOutlineLocationMarker className={css.icon} />  
-                        <span>111 north state, Edo State, Nigeria</span>
+                        <span>111 Black Heven city, Edo State, Nigeria</span>
                     </span>
 
 
@@ -40,7 +40,7 @@ const Footer = () => {
 
                     <span className={css.pngLine}>
                           <MdForwardToInbox className={css.icon} />  
-                          < a href="mailto:imaosazee@gmail">imaosazee@gmail</a>
+                          < a href="mailto:imaosazee@gmail">imaosazee@gmail.com</a>
                     </span>
 
                     </div>  
